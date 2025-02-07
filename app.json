@@ -1,0 +1,11 @@
+{
+    "name": "tvubottkb",
+    "description": "A Telegram bot to check schedule",
+    "scripts": {
+      "postdeploy": "dotnet BOT_TKB_TVU.dll"
+    },
+    "env": {
+      "ASPNETCORE_ENVIRONMENT": "Production"
+    }
+  }
+  

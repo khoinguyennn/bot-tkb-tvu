@@ -1,1 +1,1 @@
-worker: dotnet run
+worker: dotnet BOT_TKB_TVU.dll

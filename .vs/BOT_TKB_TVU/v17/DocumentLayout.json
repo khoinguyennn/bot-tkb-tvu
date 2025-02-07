@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BOT_Tele\\BOT_TKB_TVU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B09A567-F19A-4C0A-BADE-E28AA3F6B162}|BOT_TKB_TVU.csproj|d:\\bot_tele\\bot_tkb_tvu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B09A567-F19A-4C0A-BADE-E28AA3F6B162}|BOT_TKB_TVU.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B09A567-F19A-4C0A-BADE-E28AA3F6B162}|BOT_TKB_TVU.csproj|d:\\bot_tele\\bot_tkb_tvu\\sendschedulenotificationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B09A567-F19A-4C0A-BADE-E28AA3F6B162}|BOT_TKB_TVU.csproj|solutionrelative:sendschedulenotificationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B09A567-F19A-4C0A-BADE-E28AA3F6B162}|BOT_TKB_TVU.csproj|d:\\bot_tele\\bot_tkb_tvu\\tvuapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B09A567-F19A-4C0A-BADE-E28AA3F6B162}|BOT_TKB_TVU.csproj|solutionrelative:tvuapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B09A567-F19A-4C0A-BADE-E28AA3F6B162}|BOT_TKB_TVU.csproj|d:\\bot_tele\\bot_tkb_tvu\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B09A567-F19A-4C0A-BADE-E28AA3F6B162}|BOT_TKB_TVU.csproj|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B09A567-F19A-4C0A-BADE-E28AA3F6B162}|BOT_TKB_TVU.csproj|d:\\bot_tele\\bot_tkb_tvu\\app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B09A567-F19A-4C0A-BADE-E28AA3F6B162}|BOT_TKB_TVU.csproj|solutionrelative:app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B09A567-F19A-4C0A-BADE-E28AA3F6B162}|BOT_TKB_TVU.csproj|d:\\bot_tele\\bot_tkb_tvu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2B09A567-F19A-4C0A-BADE-E28AA3F6B162}|BOT_TKB_TVU.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B09A567-F19A-4C0A-BADE-E28AA3F6B162}|BOT_TKB_TVU.csproj|d:\\bot_tele\\bot_tkb_tvu\\procfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2B09A567-F19A-4C0A-BADE-E28AA3F6B162}|BOT_TKB_TVU.csproj|solutionrelative:procfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TvuApiService.cs",
+              "DocumentMoniker": "D:\\BOT_Tele\\BOT_TKB_TVU\\TvuApiService.cs",
+              "RelativeDocumentMoniker": "TvuApiService.cs",
+              "ToolTip": "D:\\BOT_Tele\\BOT_TKB_TVU\\TvuApiService.cs",
+              "RelativeToolTip": "TvuApiService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwBwAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:50:44.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SendScheduleNotificationJob.cs",
+              "DocumentMoniker": "D:\\BOT_Tele\\BOT_TKB_TVU\\SendScheduleNotificationJob.cs",
+              "RelativeDocumentMoniker": "SendScheduleNotificationJob.cs",
+              "ToolTip": "D:\\BOT_Tele\\BOT_TKB_TVU\\SendScheduleNotificationJob.cs",
+              "RelativeToolTip": "SendScheduleNotificationJob.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:47:54.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\BOT_Tele\\BOT_TKB_TVU\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\BOT_Tele\\BOT_TKB_TVU\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-01T03:54:22.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "global.json",
+              "DocumentMoniker": "D:\\BOT_Tele\\BOT_TKB_TVU\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "D:\\BOT_Tele\\BOT_TKB_TVU\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T03:49:55.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.json",
+              "DocumentMoniker": "D:\\BOT_Tele\\BOT_TKB_TVU\\app.json",
+              "RelativeDocumentMoniker": "app.json",
+              "ToolTip": "D:\\BOT_Tele\\BOT_TKB_TVU\\app.json",
+              "RelativeToolTip": "app.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T03:49:51.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Procfile",
+              "DocumentMoniker": "D:\\BOT_Tele\\BOT_TKB_TVU\\Procfile",
+              "RelativeDocumentMoniker": "Procfile",
+              "ToolTip": "D:\\BOT_Tele\\BOT_TKB_TVU\\Procfile",
+              "RelativeToolTip": "Procfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-01T03:49:48.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BOT_Tele\\BOT_TKB_TVU\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BOT_Tele\\BOT_TKB_TVU\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAMwLYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:51:15.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
